@@ -3,4 +3,4 @@
 
 
 
-[`YOUTUBE`](https://youtube.com/channel/RydhPlayz)
+[`YOUTUBE`](https://youtube.com/RydhPlayz)
