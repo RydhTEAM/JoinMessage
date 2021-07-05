@@ -1,0 +1,10 @@
+# {rank} to show players rank
+# {name} to show player name
+
+player-message: §eWelcome [{rank}] {name}
+
+join-message: "§e[{rank}] {name} left the game"
+
+quit-message: "§e[{rank}] {name} left the game"
+
+...

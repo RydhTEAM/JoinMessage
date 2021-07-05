@@ -1,0 +1,8 @@
+name: RydhJoinMessage
+main: RydhTEAM\RydhJoinMessage\Main
+api: 3.0.0
+version: 1.0 -Pro
+author: RydhTEAM
+description: Custom Join Message With PurePerms!
+github: https://www.github.com/RydhTEAM
+depends: PurePerms
